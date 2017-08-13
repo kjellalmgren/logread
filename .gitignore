@@ -20,4 +20,5 @@ logread
 /IB/*
 /QRC/*
 LP-Error*.log
+.DS_Store
 
