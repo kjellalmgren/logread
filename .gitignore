@@ -19,6 +19,7 @@ logread
 /LHBLP102/*
 /IB/*
 /QRC/*
+*.zip
 LP-Error*.log
 .DS_Store
 
