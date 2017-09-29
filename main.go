@@ -143,8 +143,9 @@ func main() {
 		//"./LHBLP101/2017-07-23/lp.log", "./LHBLP102/2017-07-23/lp.log",
 		//"./LHBLP101/2017-07-24/lp.log", "./LHBLP102/2017-07-24/lp.log",
 		//"./LHBLP101/2017-09-11/lp.log", "./LHBLP102/2017-09-11/lp.log",
-		"./LHBLP101/2017-09-14/lp.log", "./LHBLP102/2017-09-14/lp.log",
+		//"./LHBLP101/2017-09-14/lp.log", "./LHBLP102/2017-09-14/lp.log",
 		//"./LHBLP101/2017-09-15/lp.log", "./LHBLP102/2017-09-15/lp.log",
+		"./LHBLP101/2017-09-29/lp.log", "./LHBLP102/2017-09-29/lp.log",
 		// QRC
 		//"./QRC/303/2017-04-20/lp.log", "./QRC/304/2017-04-20/lp.log",
 		//"./QRC/303/2017-04-21/lp.log", "./QRC/304/2017-04-21/lp.log",
